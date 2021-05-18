@@ -8,6 +8,20 @@
   </style>
 </head>
 <body>
+  <style>
+     #blinky {
+    animation-iteration-count: infinite;
+    animation-name: twinkle;
+    animation-duration: 3s;
+  }
+
+  @keyframes twinkle {
+    50% {
+      transform: scale(5);
+      opacity: 0.1;
+    }
+  }
+  </style>
   <h1 style="color:#FFFF00">This is just the beginning!!!!</h1>
-  <p style="color:tomato;">YAY!!!</p>
+  <p id="blinky" style="color:tomato;">YAY!!!</p>
 </body>
