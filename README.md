@@ -17,6 +17,7 @@ Tech Stack I am familiar with:
 ![image](https://user-images.githubusercontent.com/82442409/142026479-bc88420c-3d5d-4d50-b7ae-661a8823de18.png)
 ![image](https://user-images.githubusercontent.com/82442409/142026522-039d3f37-c16d-4eea-89ce-79577807160c.png)
 ![image](https://user-images.githubusercontent.com/82442409/142026539-4411dca4-fc53-41a8-a6c6-eb3d58a972d8.png)
+<img alt=“Bootstrap” src=“https://img.shields.io/badge/-Bootstrap-orange?style=flat-square&logo=Bootstrap&logoColor=white” />
 
 <!---
 jecihume/jecihume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
