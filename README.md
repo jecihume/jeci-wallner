@@ -9,6 +9,7 @@ First thing’s first, but not necessarily in that order!
 
 Tech Stack I am familiar with: 
 
+<p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-brightgreen?style=flat-square?logo=css3&logoColor=white" />
@@ -17,8 +18,8 @@ Tech Stack I am familiar with:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  [image](https://img.shields.io/badge/-Bootstrap-orange?style=flat-square&logo=Bootstrap&logoColor=white.png)
-
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-orange?style=flat-square&logo=Bootstrap&logoColor=white" />
+</p>
 <!---
 jecihume/jecihume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
