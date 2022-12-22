@@ -3,9 +3,9 @@ First things first, but not necessarily in that order!
 
 Hey there, I’m Johanna!
 
-🌡️   I am an Elixir Developer based in Vienna, Austria.
+🌡️   I am a Backend Developer based in Vienna, Austria.
 
-🗄   I like Database stuff, like working with TablePlus and GraphiQL.
+🗄   I like Database stuff, like working with TablePlus and GraphQL.
 
 👩🏽‍💻   Tech Stack I am familiar with: 
 
